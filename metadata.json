@@ -1,0 +1,5 @@
+{
+  "name": "Pickleball Round Robin",
+  "description": "An application to generate and manage round-robin tournaments for pickleball. Add players, generate a schedule, track scores, and view live standings.",
+  "requestFramePermissions": []
+}
